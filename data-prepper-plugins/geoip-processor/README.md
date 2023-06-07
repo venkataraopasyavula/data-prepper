@@ -1,9 +1,7 @@
 # GeoIP Processor
 
-This is the Data Prepper GeoIP processor plugin which can enrich 
-Data Prepper events with location information using a provided IP address.
-Additionally, this plugin should be able to use either a MaxMind GeoIP Lite2 database 
-or the GeoIP2 Commercial Licensing database. 
+This is the Data Prepper GeoIP processor plugin which can enrich Data Prepper events with location information using a provided IP address.
+Additionally, this plugin should be able to use either a MaxMind GeoIP Lite2 database or the GeoIP2 Commercial Licensing database. 
 The Data Prepper author must provide information for configuring the commercial license.
 
 
